@@ -6,3 +6,5 @@
 <h2> MR-CRAZY-404-XD IS HERE </h2>
 </div> <br>
   
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MR-CRAZY-404-XD.visitor-badge&left_color=blue&right_color=yellow)
+<br />
