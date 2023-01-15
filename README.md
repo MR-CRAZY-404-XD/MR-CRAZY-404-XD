@@ -11,3 +11,4 @@
   
   
   [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/MR.CRAZY.404.XD)
+[![Github](https://img.shields.io/badge/Github-MR-CRAZY-404-XDgreen?style=for-the-badge&logo=github)](https://github.com/MR-CRAZY-404-XD)
