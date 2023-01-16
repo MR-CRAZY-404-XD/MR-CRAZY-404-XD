@@ -10,6 +10,6 @@
 <br />
   
   
-  [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/MR.CRAZY.404.XD)
-[![Github](https://img.shields.io/badge/Github-MR-CRAZY-404-XDgreen?style=for-the-badge&logo=github)](https://github.com/MR-CRAZY-404-XD)
-  <a href="https://www.facebook.com/MR.CRAZY.404.XD" target="_blank"><img src="https://github.com/MR-CRAZY-404-XD/Azim-vau/blob/main/facebook-7118901_960_720.webp" alt="alt text" width="25" height="25"></a>
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/MR.CRAZY.404.XD)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1.143)
+ <a href="https://www.facebook.com/MR.CRAZY.404.XD" target="_blank"><img src="https://github.com/MR-CRAZY-404-XD/MR-CRAZY-404-XD/blob/main/facebook-7118901_960_720.webp" alt="alt text" width="25" height="25"></a>
